@@ -6,13 +6,8 @@ function App({name}) {
     Hello form {name}
     <br/>
     <Hello name={name}></Hello>
-    <h3>The following is a list</h3>
-    <img src='https://source.unsplash.com/collection/190727/1600x900' alt=''cant load source image></img>
-    <ol>This is a list
-      <li>Item1</li>
-      <li>Item2</li>
-      <li>Item3</li>
-    </ol>
+    <h3>The following is a random image</h3>
+    <img src='https://source.unsplash.com/collection/190727/800x600' alt='cant load source imagery'></img>
   </div>
 }
 
